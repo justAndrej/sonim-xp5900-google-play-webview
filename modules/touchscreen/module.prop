@@ -1,0 +1,6 @@
+id=sonim_touchscreen_test
+name=Sonim XP5900 Touchscreen Feature Test
+version=v1.0
+versionCode=1
+author=ChatGPT
+description=Temporary systemless touchscreen and faketouch feature flags for Google Play compatibility diagnostics

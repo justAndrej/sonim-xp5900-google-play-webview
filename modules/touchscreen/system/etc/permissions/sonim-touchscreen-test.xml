@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <!-- Test only: reports these capabilities; does not add a touchscreen. -->
+    <feature name="android.hardware.touchscreen" />
+    <feature name="android.hardware.faketouch" />
+</permissions>
